@@ -5,7 +5,7 @@ Whenever we use a diabetes checking machine it always takes blood from our body 
 
 
 
-![mq2](https://user-images.githubusercontent.com/64471180/118407882-6b878c00-b6a0-11eb-8ca3-05eabf8b0998.jpg)
+
 
 # Website
 <img width="1432" alt="image" src="https://user-images.githubusercontent.com/80626440/226516002-bb498286-3070-4bfd-a36d-79a06257ce74.png">
