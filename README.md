@@ -6,7 +6,7 @@ Whenever we use a diabetes checking machine it always takes blood from our body 
 
 
 
-
+# You will get website link below later
 # Website
 <img width="1432" alt="image" src="https://user-images.githubusercontent.com/80626440/226516002-bb498286-3070-4bfd-a36d-79a06257ce74.png">
 <img width="1420" alt="image" src="https://user-images.githubusercontent.com/80626440/226516069-51bf9f9a-764b-4ff7-810b-aeb75c8be521.png">
@@ -52,6 +52,7 @@ Non-contact in nature to avoid any possible corruptions.
 ![4](https://user-images.githubusercontent.com/64471180/118408039-47787a80-b6a1-11eb-9331-e1b0e97212d3.png)    
 
 
+#website_link https://glutor.netlify.app/
 # Challenges we ran into🙄
 We ran into challenges like data processing data sheets and calculating the reports for user as we are the first ones to built this, so no previous reports were there so those data sheets needed to be calculate properly which we are doing continuously to bring to action also when we were deploying it to aws the dynamodb part of intricating with real time data from app was a bit challenging.
 
